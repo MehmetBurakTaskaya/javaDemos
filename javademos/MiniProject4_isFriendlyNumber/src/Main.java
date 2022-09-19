@@ -20,9 +20,9 @@ public class Main {
 		}
 		
 		if(number1==total2 & number2==total1){
-			System.out.println("These two numbers are friend numbers: " + number1+","+number2);
+			System.out.println("These two numbers are friendly numbers: " + number1+","+number2);
 		}else {
-			System.out.println("These two numbers are not friend numbers: " + number1+","+number2);
+			System.out.println("These two numbers are not friendly numbers: " + number1+","+number2);
 		}
 	}
 
